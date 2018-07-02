@@ -1,2 +1,2 @@
 # Geist
-A experimental framework for learning.
+Geist A experimental framework built for learning. 
